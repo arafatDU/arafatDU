@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-arafat-du.pantheonsite.io/](https://dev-arafat-du.pantheonsite.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@arafatDU](https://medium.com/@arafatDU)
-
 - 💬 Ask me about **Node.js, Express.js**
 
 - 📫 How to reach me **arafat.du.iit@gmail.com**
