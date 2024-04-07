@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [https://dev-arafat-du.pantheonsite.io/](https://dev-arafat-du.pantheonsite.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://dev-arafat-du.pantheonsite.io/](https://dev-arafat-du.pantheonsite.io/) -->
 
 - 💬 Ask me about **Node.js, Express.js**
 
