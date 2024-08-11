@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **MERN Stack App**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 <!-- - 👨‍💻 All of my projects are available at [https://dev-arafat-du.pantheonsite.io/](https://dev-arafat-du.pantheonsite.io/) -->
 
-- 💬 Ask me about **Node.js, Express.js**
+- 💬 Ask me about **Programming and DSA**
 
 - 📫 How to reach me **arafat.du.iit@gmail.com**
 
