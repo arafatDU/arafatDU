@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack App**
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **Microservices**
 
 <!-- - 👨‍💻 All of my projects are available at [https://dev-arafat-du.pantheonsite.io/](https://dev-arafat-du.pantheonsite.io/) -->
 
